@@ -1,6 +1,6 @@
 {
   "name": "strapi-blog-server",
-  "version": "0.0.0",
+  "version": "0.2.0-beta.1",
   "description": "Blog Magezine",
   "author": "m0st4f4",
   "scripts": {
