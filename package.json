@@ -1,0 +1,37 @@
+{
+  "name": "strapi-blog-server",
+  "version": "0.0.0",
+  "description": "Blog Magezine",
+  "author": "m0st4f4",
+  "scripts": {
+    "prepare": "husky",
+    "commit": "cz",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "npm --prefix server run develop",
+    "install:all": "npm install && npm install --prefix client && npm install --prefix server",
+    "release": "semantic-release"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,css,md}": "prettier --write"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^21.2.4",
+    "@commitlint/config-conventional": "^21.2.4",
+    "@semantic-release/changelog": "^7.0.0",
+    "@semantic-release/exec": "^7.1.0",
+    "@semantic-release/git": "^11.0.1",
+    "commitizen": "^4.3.2",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.6.0",
+    "prettier": "^3.9.10",
+    "semantic-release": "^25.0.9"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
