@@ -1,3 +1,11 @@
+# [0.2.0-beta.2](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/compare/v0.2.0-beta.1...v0.2.0-beta.2) (2026-11-08)
+
+
+### Features
+
+* setup desing system ([c2e2ef8](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/commit/c2e2ef878d0a733af30622306972d70df18d59da))
+* setup tailwind , shadcn ,font ([f2b56b2](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/commit/f2b56b297ecf1677235a13f0f1a166277a967048))
+
 # [0.2.0-beta.1](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/compare/v0.1.0...v0.2.0-beta.1) (2026-11-08)
 
 
