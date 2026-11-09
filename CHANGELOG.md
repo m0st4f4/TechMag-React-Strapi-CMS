@@ -1,3 +1,10 @@
+# [0.2.0-beta.3](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/compare/v0.2.0-beta.2...v0.2.0-beta.3) (2026-11-09)
+
+
+### Bug Fixes
+
+* fix typescript and pg package error ([f961c30](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/commit/f961c307c732c3e7a9195ae57937d1ae30439d9c))
+
 # [0.2.0-beta.2](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/compare/v0.2.0-beta.1...v0.2.0-beta.2) (2026-11-08)
 
 
