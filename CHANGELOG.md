@@ -1,3 +1,10 @@
+# [0.3.0-beta.1](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/compare/v0.2.1-beta.1...v0.3.0-beta.1) (2026-11-09)
+
+
+### Features
+
+* app Router and pages ([610b5fc](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/commit/610b5fc58ff448aaafd520504eb4ebf943e64e2d))
+
 ## [0.2.1-beta.1](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/compare/v0.2.0...v0.2.1-beta.1) (2026-11-09)
 
 
