@@ -1,3 +1,10 @@
+## [0.2.1-beta.1](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/compare/v0.2.0...v0.2.1-beta.1) (2026-11-09)
+
+
+### Bug Fixes
+
+* fixed packages versions in package-lock ([3db4a9b](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/commit/3db4a9b1d7bbffd162df2de29b69f38b3d47f3bb))
+
 # [0.2.0](https://github.com/m0st4f4/TechMag-React-Strapi-CMS/compare/v0.1.0...v0.2.0) (2026-11-09)
 
 
