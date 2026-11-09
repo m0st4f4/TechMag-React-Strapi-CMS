@@ -1,6 +1,6 @@
 {
   "name": "strapi-blog-server",
-  "version": "0.0.0",
+  "version": "0.2.0-beta.3",
   "description": "Blog Magezine",
   "author": "m0st4f4",
   "scripts": {
@@ -27,6 +27,7 @@
     "husky": "^9.1.7",
     "lint-staged": "^17.6.0",
     "prettier": "^3.9.10",
+    "@trivago/prettier-plugin-sort-imports": "^6.0.2",
     "semantic-release": "^25.0.9"
   },
   "config": {
